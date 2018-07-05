@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "@arkecosystem/networks",
+  "description": "Configurations of the ARK networks",
+  "version": "0.0.1",
+  "contributors": [
+    "François-Xavier Thoorens <fx@ark.io>",
+    "Brian Faust <brian@ark.io>",
+    "Juan A. Martín <juan@ark.io>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ArkEcosystem/networks"
+}

@@ -1,7 +1,7 @@
-# ARK Peers
+# ARK networks
 
 <p align="center">
-    <img src="https://github.com/ArkEcosystem/ARK-Peers/blob/master/banner.png" />
+    <img src="https://github.com/ArkEcosystem/networks/blob/master/banner.png" />
 </p>
 
-> ARK Peers that serve as Seeds for the network.
+> Configurations of the ARK networks.
